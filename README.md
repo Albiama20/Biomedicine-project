@@ -1,2 +1,1 @@
-# Biomedicine-project
-SAS - Biomedicine project completed for the Statistical Methods in Biomedicine course at the University of Genoa.
+This repository contains a university project developed as part of the Statistical Methods in Biomedicine program. The project's goal is to test whether a new treatment is more effective than one already in clinical practice in reducing PSA biomarker levels following improved prostate function.
